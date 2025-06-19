@@ -24,6 +24,11 @@ export default {
 	"projectType": "gatsby",
 	"site": {
 		"styles": {},
-		"seo": {}
+		"seo": {
+			"title": "XZ1 Mastering Enterprises - Top tier mastering at competitive prices",
+			"description": "XZ1 Mastering Enterprises is your place to go for affordable music mastering. We offer mastering in a multitude of formats and have addons that cater to everyone's needs.",
+			"customSitemapDomain": "https://mastering.xz1recordings.ca",
+			"favicon_32px": "https://uploads.quarkly.io/67e33fe29335410018cb77d9/images/XZ1%20REDESIGN%20TAKE%20II.png?v=2025-06-19T23:15:31.624Z"
+		}
 	}
 }

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://creativeaudio.xz1recordings.ca/sitemap-index.xml
+Sitemap: https://mastering.xz1recordings.ca/sitemap-index.xml

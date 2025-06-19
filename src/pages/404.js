@@ -11,10 +11,10 @@ export default (() => {
 		<GlobalQuarklyPageStyles pageUrl={"404"} />
 		<Helmet>
 			<title>
-				Quarkly export
+				XZ1 Mastering Enterprises - Top tier mastering at competitive prices
 			</title>
-			<meta name={"description"} content={"Web site created using quarkly.io"} />
-			<link rel={"shortcut icon"} href={"https://uploads.quarkly.io/readme/cra/favicon-32x32.ico"} type={"image/x-icon"} />
+			<meta name={"description"} content={"XZ1 Mastering Enterprises is your place to go for affordable music mastering. We offer mastering in a multitude of formats and have addons that cater to everyone's needs."} />
+			<link rel={"shortcut icon"} href={"https://uploads.quarkly.io/67e33fe29335410018cb77d9/images/XZ1%20REDESIGN%20TAKE%20II.png?v=2025-06-19T23:15:31.624Z"} type={"image/x-icon"} />
 		</Helmet>
 		<Section
 			padding="150px 0 150px 0"
