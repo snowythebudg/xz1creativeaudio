@@ -2,7 +2,7 @@
   <img src="http://uploads.quarkly.io/readme/gatsby/readme-quarkly-and-gatsby.png" width="480px" alt="Gatsby project from Quarkly">
 </p>
 
-<h1 align="center">affogato</h1>
+<h1 align="center">xz1masteringenterprises</h1>
 
 <h4 align="center">This Gatsby project was created in <a href="https://quarkly.io/" target="_blank">Quarkly.io</a> – design tool for creating websites and web apps</h4>
 
@@ -15,6 +15,11 @@
     <img src="https://badgen.net/badge/Gatsby/2.23.12/purple" alt="Gatsby version" />
   </a>
   
+   <a href="https://github.com/snowythebudg/xz1creativeaudio/pulls">
+     <img src="https://badgen.net/github/prs/snowythebudg/xz1creativeaudio" alt="Pull Request Amount">
+   </a>
+   <img src="https://badgen.net/github/last-commit/snowythebudg/xz1creativeaudio" alt="Last commit date" />
+    
   <a href="./LICENSE">
     <img src="https://badgen.net/badge/license/MIT/blue" alt="License">
   </a>
