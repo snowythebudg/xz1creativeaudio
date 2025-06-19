@@ -419,7 +419,7 @@ export default (() => {
 					md-margin="0px 0px 60px 0px"
 					sm-margin="0px 0px 40px 0px"
 				>
-					All our plans come with a free trial period, flexible monthly or annual billing, and access to our customer support team.{" "}
+					All plans come with unlimited mastering and free addons
 				</Text>
 				<Box
 					display="flex"
@@ -815,7 +815,9 @@ export default (() => {
 				href="https://billing.stripe.com/p/login/aFa3cw74O4B9bK22tTa7C00"
 				background="radial-gradient(ellipse at center,#00e3ff 0%,transparent 100%) 0 0 no-repeat"
 			>
-				Button
+				<Strong>
+					To XZ1 Payment Manager
+				</Strong>
 			</Button>
 		</Section>
 		<Section background="#000000" color="--dark" padding="64px 0 64px 0">
