@@ -36,7 +36,7 @@ export default (() => {
 				XZ1 Mastering Enterprises
 			</Text>
 		</Section>
-		<Section padding="140px 0" sm-padding="40px 0 40px 0" background="url(https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=2000) center/cover">
+		<Section padding="140px 0" sm-padding="40px 0 40px 0" background="url(https://images.unsplash.com/photo-1636215096587-21982fbf5843?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&h=2000) center/cover">
 			<Override slot="SectionContent" sm-align-items="center" />
 			<Box max-width="360px" padding="50px 80px 80px 50px" background="#000000" color="--dark">
 				<Text
@@ -356,7 +356,7 @@ export default (() => {
 				margin="20px"
 				background="radial-gradient(circle at center,#00e3ff 0%,transparent 100%) 0 0 no-repeat"
 				type="link"
-				href="https://files.xz1recordings.ca/documentarchive/label/mastering/XZ1MASTERINGPRICELIST0616.pdf"
+				href="https://files.xz1recordings.ca/documents/label/mastering/XZ1MASTERINGPRICELIST0619.pdf"
 				target="_blank"
 			>
 				<Strong>
@@ -419,7 +419,7 @@ export default (() => {
 					md-margin="0px 0px 60px 0px"
 					sm-margin="0px 0px 40px 0px"
 				>
-					All plans come with unlimited mastering and free addons
+					All plans come with unlimited mastering and any format for mastered audio
 				</Text>
 				<Box
 					display="flex"
@@ -480,12 +480,12 @@ export default (() => {
 									pointer-events="auto"
 									color="#ffffff"
 								>
-									C$1.29
+									C$6.79
 								</Span>
 								{" "}/ month
 							</Text>
 							<Text margin="0px 0px 20px 0px" font="normal 400 17px/1.5 --fontFamily-sansHelvetica" color="#ffffff" sm-margin="0px 0px 18px 0px">
-								Unlimited mastering for an unlimited amount of artists. Includes unlimited retakes and masters in any format of your choosing{"\n\n"}
+								Unlimited mastering with monthly payments. Includes 1 free retake per track and masters in any format of your choosing{"\n\n"}
 							</Text>
 							<Box min-width="10px" min-height="10px" display="flex" align-items="center">
 								<Icon
@@ -545,7 +545,7 @@ export default (() => {
 									margin="0px 8px 0px 0px"
 								/>
 								<Text margin="0px 0px 0px 0px" font="normal 400 18px/1.2 --fontFamily-sansHelvetica" color="#ffffff">
-									Free addons
+									No free addons and credited releases
 								</Text>
 							</Box>
 						</Box>
@@ -617,12 +617,12 @@ export default (() => {
 									pointer-events="auto"
 									color="#ffffff"
 								>
-									C$15.48
+									C$43.59
 								</Span>
 								/ year
 							</Text>
 							<Text margin="0px 0px 20px 0px" font="normal 400 17px/1.5 --fontFamily-sansHelvetica" color="#ffffff" sm-margin="0px 0px 18px 0px">
-								Unlimited mastering for an unlimited amount of artists. Includes unlimited retakes and masters in any format of your choosing{"\n\n"}
+								Unlimited mastering with lower priced yearly payments. Includes unlimited retakes and masters in any format of your choosing{"\n\n"}
 							</Text>
 							<Box min-width="10px" min-height="10px" display="flex" align-items="center">
 								<Icon
@@ -681,7 +681,7 @@ export default (() => {
 									margin="0px 8px 0px 0px"
 								/>
 								<Text margin="0px 0px 0px 0px" font="normal 400 18px/1.2 --fontFamily-sansHelvetica" color="#ffffff">
-									Free addons
+									Free addons and uncredited releases
 								</Text>
 							</Box>
 							<Box
