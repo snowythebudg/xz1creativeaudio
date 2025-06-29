@@ -889,6 +889,10 @@ export default (() => {
 			</Box>
 		</Section>
 		<Components.Footer0619 />
+		<Components.QuarklycommunityKitScrollIndicator border-color="rgba(255, 0, 0, 0)" background="rgba(0, 227, 255, 0)">
+			<Override slot="Indicator" color="#00e3ff" />
+		</Components.QuarklycommunityKitScrollIndicator>
+		<Components.QuarklycommunityKitScrollIndicator />
 		<Link
 			font={"--capture"}
 			font-size={"10px"}
