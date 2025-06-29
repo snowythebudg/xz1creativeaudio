@@ -2,7 +2,7 @@ module.exports = {
     siteMetadata: {
         title: "Quarkly gatsby project",
         description: "",
-        author: "@Malith Jayasinghe",
+        author: "@budgiemint",
         siteUrl: "https://mastering.xz1recordings.ca"
     },
     plugins: [

@@ -36,7 +36,7 @@ export default (() => {
 				XZ1 Mastering Enterprises
 			</Text>
 		</Section>
-		<Section padding="140px 0" sm-padding="40px 0 40px 0" background="url(https://images.unsplash.com/photo-1636215096587-21982fbf5843?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&h=2000) center/cover">
+		<Section padding="140px 0" sm-padding="40px 0 40px 0" background="url(https://images.unsplash.com/photo-1620971401889-6b1d77dede1f?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=2000) center/cover">
 			<Override slot="SectionContent" sm-align-items="center" />
 			<Box max-width="360px" padding="50px 80px 80px 50px" background="#000000" color="--dark">
 				<Text
@@ -152,7 +152,7 @@ export default (() => {
 						margin="5px 0 0 0"
 						color="#00e3ff"
 					/>
-					<Text padding="0" margin="0" color="--light">
+					<Text padding="0" margin="0" color="--light" font="18px/27px --fontFamily-googleRobotoCondensed">
 						<Span
 							overflow-wrap="normal"
 							word-break="normal"
@@ -162,7 +162,7 @@ export default (() => {
 							hyphens="manual"
 							user-select="auto"
 							pointer-events="auto"
-							font="normal 600 16px/1.5 --fontFamily-sans"
+							font="normal 600 16px/1.5 --fontFamily-googleRobotoCondensed"
 						>
 							Competitive pricing.{" "}
 							<Span
@@ -176,7 +176,7 @@ export default (() => {
 								user-select="auto"
 								pointer-events="auto"
 							>
-								At XZ1 Mastering Enterprises. We strive to provide the best pricing in the market. You can view our Pricing page to see all of our offers!
+								At XZ1 Mastering Enterprises. We strive to provide the best pricing in the market. You can view our pricelist (see below) to see all of our offers!
 							</Span>
 						</Span>
 					</Text>
@@ -190,7 +190,7 @@ export default (() => {
 						color="#00e3ff"
 						margin="5px 0 0 0"
 					/>
-					<Text padding="0" margin="0" font="18px/27px --fontFamily-sans" color="--light">
+					<Text padding="0" margin="0" font="18px/27px --fontFamily-googleRobotoCondensed" color="--light">
 						<Span
 							font-weight="600"
 							overflow-wrap="normal"
@@ -201,7 +201,7 @@ export default (() => {
 							hyphens="manual"
 							user-select="auto"
 							pointer-events="auto"
-							font="normal 600 16px/1.5 --fontFamily-sans"
+							font="normal 600 16px/1.5 --fontFamily-googleRobotoCondensed"
 						>
 							Multiple takes.{" "}
 							<Span
@@ -240,7 +240,7 @@ export default (() => {
 							hyphens="manual"
 							user-select="auto"
 							pointer-events="auto"
-							font="normal 600 16px/1.5 --fontFamily-sans"
+							font="normal 600 16px/1.5 --fontFamily-googleRobotoCondensed"
 						>
 							No robots involved.{" "}
 							<Span
@@ -279,10 +279,20 @@ export default (() => {
 							hyphens="manual"
 							user-select="auto"
 							pointer-events="auto"
-							font="normal 600 16px/1.5 --fontFamily-sans"
+							font="normal 600 16px/1.5 --fontFamily-googleRobotoCondensed"
 						>
 							Quick turnaround times.{" "}
-							<Span font-weight="300">
+							<Span
+								font-weight="300"
+								overflow-wrap="normal"
+								word-break="normal"
+								white-space="normal"
+								text-indent="0"
+								text-overflow="clip"
+								hyphens="manual"
+								user-select="auto"
+								pointer-events="auto"
+							>
 								We deliver your mastered/mixed audio back to you within 1-2 days, sometimes within hours for singles while EP's and albums will take no more than 4 days!
 								<br />
 							</Span>
@@ -309,7 +319,7 @@ export default (() => {
 							hyphens="manual"
 							user-select="auto"
 							pointer-events="auto"
-							font="normal 600 16px/1.5 --fontFamily-sans"
+							font="normal 600 16px/1.5 --fontFamily-googleRobotoCondensed"
 						>
 							Tons of addons.{" "}
 							<Span
@@ -349,7 +359,7 @@ export default (() => {
 				text-align="center"
 				color="#ffffff"
 			>
-				To place a REGULAR one off mastering order with XZ1 Mastering Enterprises (subscriptions can be purchased below). You can order through music distribution platform Tunearo or you can order through us directly. To place an order with Tunearo, please follow the steps in their mastering portal. To order directly through XZ1 Mastering Enterprises, click below to view our pricelist and send an email to artistservices@xz1recordings.ca with what you want. If we sign off on your order, you can send us your files. We'll do our magic, and then we'll send 30 second previews of each track to ensure that it's good with you. After that, we'll send you an invoice with everything you need to pay. You have 7 days to pay. Extended payment policies available in the price list below.
+				To place a REGULAR one off mastering order with XZ1 Mastering Enterprises (subscriptions can be purchased below). You can order through music distribution platform Tunearo (IN THE WORKS) or you can order through us directly. To place an order with Tunearo, please follow the steps in their mastering portal. To order directly through XZ1 Mastering Enterprises, click below to view our pricelist and send an email to artistservices@xz1recordings.ca with what you want. If we sign off on your order, you can send us your files. We'll do our magic, and then we'll send 30 second previews of each track to ensure that it's good with you. After that, we'll send you an invoice with everything you need to pay. You have 7 days to pay. Extended payment policies available in the price list below.
 			</Text>
 			<Button
 				font="--lead"
@@ -758,12 +768,12 @@ export default (() => {
 						sm-text-align="center"
 						md-flex-direction="column"
 					>
-						<Text margin="0px 0px 10px 0px" font="normal 600 22px/1.2 --fontFamily-sans" color="#00e3ff">
+						<Text margin="0px 0px 10px 0px" font="normal 600 22px/1.2 --fontFamily-googleMichroma" color="#00e3ff">
 							Custom plans
 						</Text>
 						<Text
 							margin="0px 0px 0px 0px"
-							font="normal 400 17px/1.5 --fontFamily-sansHelvetica"
+							font="normal 400 17px/1.5 --fontFamily-googleRobotoCondensed"
 							color="#ffffff"
 							padding="0px 70px 0px 0px"
 							md-padding="0px 0px 0px 0px"
@@ -776,7 +786,7 @@ export default (() => {
 						color="#00e3ff"
 						border-color="#00e3ff"
 						border-radius="4px"
-						font="normal 400 17px/1.5 --fontFamily-sansHelvetica"
+						font="normal 400 17px/1.5 --fontFamily-googleRobotoCondensed"
 						background="rgba(155, 108, 252, 0)"
 						border-width="1px"
 						border-style="solid"
